@@ -1,0 +1,412 @@
+[
+    {
+        "domain": "a1.tuyacn.com",
+        "certs": [
+            {
+                "eTime": 1758347738,
+                "sha256": "8deeb591c0fd850043ac049790e409248412bb02461828a54c81a8effc8be755",
+                "ver": "sha256/YhNNie7EoILoelAxSWD9rlGeQCILjsfs4E1RaoC1x90="
+            },
+            {
+                "eTime": 1935558000,
+                "sha256": "973a41276ffd01e027a2aad49e34c37846d3e976ff6a620b6712e33832041aa6",
+                "ver": "sha256/8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
+            },
+            {
+                "eTime": 1937890800,
+                "sha256": "3a2fbe92891e57fe05d57087f48e730f17e5a5f53ef403d618e5b74d7a7e6ecb",
+                "ver": "sha256/Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+            }
+        ]
+    },
+    {
+        "domain": "a1.tuyaus.com",
+        "certs": [
+            {
+                "eTime": 1758347261,
+                "sha256": "81ca5b83bc19e12ef2f39595440dfcaad33314972ddd0fdfc5ad9152fdfff69b",
+                "ver": "sha256/ebb9KU4gJTDoV1m8GP5FQrBsaaS4wKFvX+a7njlaHk4="
+            },
+            {
+                "eTime": 1935558000,
+                "sha256": "973a41276ffd01e027a2aad49e34c37846d3e976ff6a620b6712e33832041aa6",
+                "ver": "sha256/8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
+            },
+            {
+                "eTime": 1937890800,
+                "sha256": "3a2fbe92891e57fe05d57087f48e730f17e5a5f53ef403d618e5b74d7a7e6ecb",
+                "ver": "sha256/Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+            }
+        ]
+    },
+    {
+        "domain": "a1.tuyaeu.com",
+        "certs": [
+            {
+                "eTime": 1758347260,
+                "sha256": "14db016d6093d4c801e7d61ba6b0044c24a5acfd61cc59a052e28725d0997652",
+                "ver": "sha256/I4mczgFoNpg2fxj72LLMRaKuiXIE9eAcXHIr1KTrVvE="
+            },
+            {
+                "eTime": 1935558000,
+                "sha256": "973a41276ffd01e027a2aad49e34c37846d3e976ff6a620b6712e33832041aa6",
+                "ver": "sha256/8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
+            },
+            {
+                "eTime": 1937890800,
+                "sha256": "3a2fbe92891e57fe05d57087f48e730f17e5a5f53ef403d618e5b74d7a7e6ecb",
+                "ver": "sha256/Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+            }
+        ]
+    },
+    {
+        "domain": "a1.tuyain.com",
+        "certs": [
+            {
+                "eTime": 1737121519,
+                "sha256": "fae04db3f6982c2855324adae13494344de0dfd33092c5fca951347f5f2f388d",
+                "ver": "sha256/U6LCRV8IBUDrzPwqfnG+peTI3QfbXrKNaN6sDI6fjKo="
+            },
+            {
+                "eTime": 1935558000,
+                "sha256": "973a41276ffd01e027a2aad49e34c37846d3e976ff6a620b6712e33832041aa6",
+                "ver": "sha256/8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
+            },
+            {
+                "eTime": 1937890800,
+                "sha256": "3a2fbe92891e57fe05d57087f48e730f17e5a5f53ef403d618e5b74d7a7e6ecb",
+                "ver": "sha256/Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+            }
+        ]
+    },
+    {
+        "domain": "h1.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 1758326399,
+                "sha256": "917349739480c04f423c03bb6e404a44edafde860003a6aa4a640db6402e8022",
+                "ver": "sha256/TXzEdga9RB6w6sTxSA3plgOMafK0JDjTL1abV8DTWpU="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "h1-cn.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 1758326399,
+                "sha256": "917349739480c04f423c03bb6e404a44edafde860003a6aa4a640db6402e8022",
+                "ver": "sha256/TXzEdga9RB6w6sTxSA3plgOMafK0JDjTL1abV8DTWpU="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "h1-in.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 1758326399,
+                "sha256": "917349739480c04f423c03bb6e404a44edafde860003a6aa4a640db6402e8022",
+                "ver": "sha256/TXzEdga9RB6w6sTxSA3plgOMafK0JDjTL1abV8DTWpU="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "h1-us.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 1758326399,
+                "sha256": "917349739480c04f423c03bb6e404a44edafde860003a6aa4a640db6402e8022",
+                "ver": "sha256/TXzEdga9RB6w6sTxSA3plgOMafK0JDjTL1abV8DTWpU="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "h1-eu.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 1758326399,
+                "sha256": "917349739480c04f423c03bb6e404a44edafde860003a6aa4a640db6402e8022",
+                "ver": "sha256/TXzEdga9RB6w6sTxSA3plgOMafK0JDjTL1abV8DTWpU="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "h1-ue.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 1758326399,
+                "sha256": "917349739480c04f423c03bb6e404a44edafde860003a6aa4a640db6402e8022",
+                "ver": "sha256/TXzEdga9RB6w6sTxSA3plgOMafK0JDjTL1abV8DTWpU="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "h1-we.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 1758326399,
+                "sha256": "917349739480c04f423c03bb6e404a44edafde860003a6aa4a640db6402e8022",
+                "ver": "sha256/TXzEdga9RB6w6sTxSA3plgOMafK0JDjTL1abV8DTWpU="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "h2.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 4712370957,
+                "sha256": "ccdf305e3cda73b7990a163c8d9347a41a179d512e4e87fa872f06b3bd961e40",
+                "ver": "sha256/st6UHT9GUb2d8POM6DXmxEyqROWXmPcGM4NEsYAB6J8="
+            }
+        ]
+    },
+    {
+        "domain": "h2-cn.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 4712370957,
+                "sha256": "ccdf305e3cda73b7990a163c8d9347a41a179d512e4e87fa872f06b3bd961e40",
+                "ver": "sha256/st6UHT9GUb2d8POM6DXmxEyqROWXmPcGM4NEsYAB6J8="
+            }
+        ]
+    },
+    {
+        "domain": "h2-us.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 4712370957,
+                "sha256": "ccdf305e3cda73b7990a163c8d9347a41a179d512e4e87fa872f06b3bd961e40",
+                "ver": "sha256/st6UHT9GUb2d8POM6DXmxEyqROWXmPcGM4NEsYAB6J8="
+            }
+        ]
+    },
+    {
+        "domain": "h2-eu.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 4712370957,
+                "sha256": "ccdf305e3cda73b7990a163c8d9347a41a179d512e4e87fa872f06b3bd961e40",
+                "ver": "sha256/st6UHT9GUb2d8POM6DXmxEyqROWXmPcGM4NEsYAB6J8="
+            }
+        ]
+    },
+    {
+        "domain": "h2-in.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 4712370957,
+                "sha256": "ccdf305e3cda73b7990a163c8d9347a41a179d512e4e87fa872f06b3bd961e40",
+                "ver": "sha256/st6UHT9GUb2d8POM6DXmxEyqROWXmPcGM4NEsYAB6J8="
+            }
+        ]
+    },
+    {
+        "domain": "h2-ue.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 4712370957,
+                "sha256": "ccdf305e3cda73b7990a163c8d9347a41a179d512e4e87fa872f06b3bd961e40",
+                "ver": "sha256/st6UHT9GUb2d8POM6DXmxEyqROWXmPcGM4NEsYAB6J8="
+            }
+        ]
+    },
+    {
+        "domain": "h2-we.iot-dns.com",
+        "certs": [
+            {
+                "eTime": 4712370957,
+                "sha256": "ccdf305e3cda73b7990a163c8d9347a41a179d512e4e87fa872f06b3bd961e40",
+                "ver": "sha256/st6UHT9GUb2d8POM6DXmxEyqROWXmPcGM4NEsYAB6J8="
+            }
+        ]
+    },
+    {
+        "domain": "a1-us.iotbing.com",
+        "certs": [
+            {
+                "eTime": 1760948179,
+                "sha256": "c1689780b4ea362f915e534fa68598d9469ed26026cac5ee4fff9d9aa876db31",
+                "ver": "sha256/2aMip6AycxtIXuaZPq7ibM+vMBB/2XVgRZa0qeM+YSI="
+            },
+            {
+                "eTime": 1935558000,
+                "sha256": "973a41276ffd01e027a2aad49e34c37846d3e976ff6a620b6712e33832041aa6",
+                "ver": "sha256/8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
+            },
+            {
+                "eTime": 1937890800,
+                "sha256": "3a2fbe92891e57fe05d57087f48e730f17e5a5f53ef403d618e5b74d7a7e6ecb",
+                "ver": "sha256/Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+            }
+        ]
+    },
+    {
+        "domain": "a1-eu.iotbing.com",
+        "certs": [
+            {
+                "eTime": 1760948179,
+                "sha256": "c1689780b4ea362f915e534fa68598d9469ed26026cac5ee4fff9d9aa876db31",
+                "ver": "sha256/2aMip6AycxtIXuaZPq7ibM+vMBB/2XVgRZa0qeM+YSI="
+            },
+            {
+                "eTime": 1935558000,
+                "sha256": "973a41276ffd01e027a2aad49e34c37846d3e976ff6a620b6712e33832041aa6",
+                "ver": "sha256/8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
+            },
+            {
+                "eTime": 1937890800,
+                "sha256": "3a2fbe92891e57fe05d57087f48e730f17e5a5f53ef403d618e5b74d7a7e6ecb",
+                "ver": "sha256/Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+            }
+        ]
+    },
+    {
+        "domain": "a1-in.iotbing.com",
+        "certs": [
+            {
+                "eTime": 1760948179,
+                "sha256": "c1689780b4ea362f915e534fa68598d9469ed26026cac5ee4fff9d9aa876db31",
+                "ver": "sha256/2aMip6AycxtIXuaZPq7ibM+vMBB/2XVgRZa0qeM+YSI="
+            },
+            {
+                "eTime": 1935558000,
+                "sha256": "973a41276ffd01e027a2aad49e34c37846d3e976ff6a620b6712e33832041aa6",
+                "ver": "sha256/8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="
+            },
+            {
+                "eTime": 1937890800,
+                "sha256": "3a2fbe92891e57fe05d57087f48e730f17e5a5f53ef403d618e5b74d7a7e6ecb",
+                "ver": "sha256/Ko8tivDrEjiY90yGasP6ZpBU4jwXvHqVvQI0GS3GNdA="
+            }
+        ]
+    },
+    {
+        "domain": "a1-us.lifeaiot.com",
+        "certs": [
+            {
+                "eTime": 1750809599,
+                "sha256": "b9c8b78a51cbc11b804414847c84dd562eb1ef22fcad51cd0f4cc311ab86e058",
+                "ver": "sha256/hDARaF29Nf9JCCv86npp6XSJuKcF5H14JASa6dBwgFg="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "a1-eu.lifeaiot.com",
+        "certs": [
+            {
+                "eTime": 1750809599,
+                "sha256": "b9c8b78a51cbc11b804414847c84dd562eb1ef22fcad51cd0f4cc311ab86e058",
+                "ver": "sha256/hDARaF29Nf9JCCv86npp6XSJuKcF5H14JASa6dBwgFg="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    },
+    {
+        "domain": "a1-in.lifeaiot.com",
+        "certs": [
+            {
+                "eTime": 1750809599,
+                "sha256": "b9c8b78a51cbc11b804414847c84dd562eb1ef22fcad51cd0f4cc311ab86e058",
+                "ver": "sha256/hDARaF29Nf9JCCv86npp6XSJuKcF5H14JASa6dBwgFg="
+            },
+            {
+                "eTime": 1825158273,
+                "sha256": "4422e963ee53cd58cc9f85cd40bf5ffec0095fdf1a154535661c1c06bcadc69b",
+                "ver": "sha256/E3tYcwo9CiqATmKtpMLW5V+pzIq+ZoDmpXSiJlXGmTo="
+            },
+            {
+                "eTime": 2147169600,
+                "sha256": "cb3ccbb76031e5e0138f8dd39a23f9de47ffc35e43c1144cea27d46a5ab1cb5f",
+                "ver": "sha256/i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="
+            }
+        ]
+    }
+]

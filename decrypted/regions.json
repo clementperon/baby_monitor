@@ -1,0 +1,132 @@
+[
+    {
+        "defaultConfig": false,
+        "dnsInfo": {
+            "dns2Url": "https://h2-us.iot-dns.com",
+            "dnsIps": [
+                "52.27.85.79",
+                "35.167.213.203"
+            ],
+            "dnsUrl": "https://h1-us.iot-dns.com"
+        },
+        "region": "AZ",
+        "regionConfig": {
+            "gwApiUrl": "http://a.gw.tuyaus.com/gw.json",
+            "mobileApiUrl": "https://a1-us.iotbing.com",
+            "deviceHttpsPskUrl": "https://a3-us.iotbing.com",
+            "mqttQuicUrl": "q1.tuyaus.com",
+            "httpPort": 80,
+            "mobileQuicUrl": "https://u1.tuyaus.com",
+            "pxApiUrl": "http://px1-us.iotbing.com",
+            "thingAppUrl": "app-h5-us.iotbing.com/3UhMVR/developerapp/support",
+            "tuyaImagesUrl": "d1448c85ulz2o4.cdn5th.com",
+            "mobileMediaMqttUrl": "s.tuyaus.com",
+            "httpsPort": 443,
+            "aispeechQuicUrl": "https://i1.tuyaus.com",
+            "mobileMqttsUrl": "m1-us.iotbing.com",
+            "regionCode": "AZ",
+            "mobileMqttUrl": "mq.mb.tuyaus.com",
+            "tuyaAppUrl": "app-h5-us.iotbing.com/3UhMVR/developerapp/support",
+            "mqttsPort": 8883,
+            "aispeechHttpsUrl": "https://aispeech.tuyaus.com",
+            "thingImagesUrl": "d1448c85ulz2o4.cdn5th.com",
+            "httpsPskPort": 443,
+            "mqttsPskPort": 8886,
+            "gwMqttUrl": "mq.gw.tuyaus.com",
+            "fusionUrl": "https://apigw-us.iotbing.com",
+            "mqttPort": 1883
+        }
+    },
+    {
+        "defaultConfig": true,
+        "dnsInfo": {
+            "dns2Url": "https://h2-eu.iot-dns.com",
+            "dnsIps": [
+                "52.29.0.171",
+                "35.156.160.91"
+            ],
+            "dnsUrl": "https://h1-eu.iot-dns.com"
+        },
+        "region": "EU",
+        "regionConfig": {
+            "gwApiUrl": "http://a.gw.tuyaeu.com/gw.json",
+            "mobileApiUrl": "https://a1.tuyaeu.com",
+            "deviceHttpsPskUrl": "https://a3.tuyaeu.com",
+            "mqttQuicUrl": "q1.tuyaeu.com",
+            "httpPort": 80,
+            "mobileQuicUrl": "https://u1.tuyaeu.com",
+            "pxApiUrl": "http://px.tuyaeu.com",
+            "thingAppUrl": "app-support.tuyaeu.com",
+            "tuyaImagesUrl": "images.tuyaeu.com",
+            "mobileMediaMqttUrl": "s.tuyaeu.com",
+            "httpsPort": 443,
+            "aispeechQuicUrl": "https://i1.tuyaeu.com",
+            "mobileMqttsUrl": "m1.tuyaeu.com",
+            "regionCode": "EU",
+            "mobileMqttUrl": "mq.mb.tuyaeu.com",
+            "tuyaAppUrl": "app-support.tuyaeu.com",
+            "mqttsPort": 8883,
+            "aispeechHttpsUrl": "https://aispeech.tuyaeu.com",
+            "thingImagesUrl": "images.tuyaeu.com",
+            "httpsPskPort": 443,
+            "mqttsPskPort": 8886,
+            "gwMqttUrl": "mq.gw.tuyaeu.com",
+            "fusionUrl": "https://apigw-eu.iotbing.com",
+            "mqttPort": 1883
+        }
+    },
+    {
+        "defaultConfig": false,
+        "dnsInfo": {
+            "dns2Url": "https://h2-in.iot-dns.com",
+            "dnsIps": [
+                "13.234.164.70",
+                "13.234.89.49"
+            ],
+            "dnsUrl": "https://h1-in.iot-dns.com"
+        },
+        "region": "IN",
+        "regionConfig": {
+            "gwApiUrl": "http://a1-in.iotbing.com/gw.json",
+            "mobileApiUrl": "https://a1-in.iotbing.com",
+            "deviceHttpsPskUrl": "https://a3-in.iotbing.com",
+            "mqttQuicUrl": "q1.tuyain.com",
+            "httpPort": 80,
+            "mobileQuicUrl": "https://u1.tuyain.com",
+            "pxApiUrl": "http://px1-in.iotbing.com",
+            "thingAppUrl": "app-h5-in.iotbing.com/3UhMVR/developerapp/support",
+            "tuyaImagesUrl": "d1448c85ulz2o4.cdn5th.com",
+            "mobileMediaMqttUrl": "m2.tuyain.com",
+            "httpsPort": 443,
+            "aispeechQuicUrl": "https://i1.tuyain.com",
+            "mobileMqttsUrl": "m1-in.iotbing.com",
+            "regionCode": "IN",
+            "mobileMqttUrl": "m1-in.iotbing.com",
+            "tuyaAppUrl": "app-h5-in.iotbing.com/3UhMVR/developerapp/support",
+            "mqttsPort": 8883,
+            "aispeechHttpsUrl": "",
+            "thingImagesUrl": "d1448c85ulz2o4.cdn5th.com",
+            "httpsPskPort": 443,
+            "mqttsPskPort": 8886,
+            "gwMqttUrl": "m2.tuyain.com",
+            "fusionUrl": "https://apigw-in.iotbing.com",
+            "mqttPort": 1883
+        }
+    },
+    {
+        "defaultConfig": false,
+        "dnsInfo": {
+            "dns2Url": "https://h2-eu.iot-dns.com",
+            "dnsIps": [
+                "52.29.0.171",
+                "35.156.160.91"
+            ],
+            "dnsUrl": "https://h1-eu.iot-dns.com"
+        },
+        "region": "RU",
+        "regionConfig": {
+            "mobileApiUrl": "https://a1.iot334.com",
+            "regionCode": "RU"
+        }
+    }
+]
